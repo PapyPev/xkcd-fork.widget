@@ -1,6 +1,6 @@
 {
-	"name": "xkcd",
+	"name": "xkcd-fork.widget",
 	"description": "A widget that displays the current xkcd comic",
-	"author": "Dale Manthei – @dalemanthei on GitHub",
-	"email": "dalemanthei@users.noreply.github.com"
+	"author": "Pev Arfan, @PapyPev on Github",
+	"email": "pev.arfan@gmail.com"
 }
